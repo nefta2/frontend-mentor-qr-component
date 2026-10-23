@@ -28,8 +28,7 @@ QR Code component solution using tailwind css with some costume values based on 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live QR Code Site Solution](https://nefta2.github.io/frontend-mentor-qr-component/)
 
 ## My process
 
