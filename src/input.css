@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import 'tailwindcss';
+@theme {
+	/*Costume Colors */
+	--color-slate-300: oklch(0.9049 0.0231 252.18);
+	--color-slate-500: oklch(0.565 0.0386 257.87);
+	--color-slate-900: oklch(0.3134 0.0592 260.17);
+
+	/*Costume Spacing */
+	--spacing-qr-card: 16px 16px 40px 16px;
+
+	/*Costume Font */
+	--font-outfit: 'Outfit', sans-serif;
+}
